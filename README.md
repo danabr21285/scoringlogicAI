@@ -1,7 +1,7 @@
 # 🎯 Prompt-Driven Scoring Logic with OpenAI
 ### Data-Informed Decision Support Using Natural Language Intelligence
 
-This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. Built using 4 years of student admissions data from a graduate healthcare program, this approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
+This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. Built using 4 years of data from a program, this approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
 
 ---
 
