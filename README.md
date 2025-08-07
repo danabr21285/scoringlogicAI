@@ -98,6 +98,5 @@ This project uses structured prompts and a CSV-formatted dataset of student prof
 
 ## 👤 Author
 
-**Dana Brooks**  
-Executive Director of Admissions | Data Strategist | Prompt Engineer  
+**Dana Brooks**    
 GitHub: [@danabr21285](https://github.com/danabr21285)
